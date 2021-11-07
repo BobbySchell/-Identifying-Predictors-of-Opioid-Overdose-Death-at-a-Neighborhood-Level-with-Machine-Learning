@@ -1,3 +1,19 @@
+---
+always_allow_html: true
+output:
+  rmarkdown::github_document
+bibliography: "inst/REFERENCES.bib"
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
 
 # Analysis code for AJE paper "Identifying Predictors of Opioid Overdose Death at a Neighborhood Level with Machine Learning"
 
