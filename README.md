@@ -29,6 +29,7 @@ Repository Contents
 This repository contains the code to reproduce the results in the _American Journal of Epidemiology_ article "Identifying Predictors of Opioid Overdose at a Neighborhood Level with Machine Learning."  
 
 Dataset Availability
+-----------
 
 Because of the sensitive nature of the overdose death data, it is only available with IRB approval both from the home institution and the Rhode Island Department of Health. The predictors are available for download online at the American Community Survey website https://www.census.gov/programs-surveys/acs/data.html.
 
