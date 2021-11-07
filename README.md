@@ -1,7 +1,7 @@
 
 
 Analysis code for AJE paper "Identifying Predictors of Opioid Overdose Death at a Neighborhood Level with Machine Learning"
-
+------------
 
 __Authors:__ Robert C. Schell,
 Bennett Allen,
@@ -24,6 +24,7 @@ Jennifer Ahern
 ---
 
 Repository Contents
+------------
 
 This repository contains the code to reproduce the results in the _American Journal of Epidemiology_ article "Identifying Predictors of Opioid Overdose at a Neighborhood Level with Machine Learning."  
 
@@ -34,6 +35,7 @@ Because of the sensitive nature of the overdose death data, it is only available
 ---
 
 R Code & Simulating
+------------
 
 1. Run the package installation R code
 2. Run the function list in Github. This creates functions that allow for the specification of a hyperparameter grid based on performance in the outer loop for the Random Forest in the inner loop of the double cross-validation model. 
